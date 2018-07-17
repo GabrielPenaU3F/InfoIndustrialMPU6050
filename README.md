@@ -1,0 +1,1 @@
+# InfoIndustrialMPU6050

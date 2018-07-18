@@ -12,3 +12,5 @@ Dentro del directorio 'Proyecto3_X/core' se encuentra el archivo compilado .jar 
 Dentro del directorio 'Proyecto3_X/data' se encuentran las imágenes que se utilizan en la interface gráfica del programa.
 
 Dentro del directorio 'RegressionCalculator' se encuentran los archivos fuente del código Java de dicha librería.
+
+Se incluyen también todas las versiones del informe técnico final del proyecto, y la versión anterior del proyecto para efectuar la comparativa.
